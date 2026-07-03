@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tam Ky City's place</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="cuisine.html">Cuisine</a></li>
+        <li><a href="place.html">Place</a></li>
+      </ul>
+    </nav>
+    <img src="images/TamKy.png" width="200" alt="My Blue City">
+    <h1>TamKy'splace</h1>
+  </header>
+
+<main>
+
+    <section id="about">
+        <h2>About</h2>
+        <p>
+           If you ever visit Tam Ky, my hometown, I highly recommend trying these three popular street foods. They are delicious, affordable, and loved by both locals and visitors.
+        </p>
+    </section>
+
+
+    <section class="gallery">
+        <h2>Gallery</h2>
+
+        <img src="images/CuLaoCham.png"
+             alt="Cu Lao Cham" width="400" height="300">
+
+        <img src="images/HaThanhbeach.png"
+             alt="Ha Thanh beach" width="400" height="300">
+
+        <img src="images/HoiAnAncientTown.png"
+             alt="Hoi An Ancient Town" width="400" height="300">
+
+        <img src="images/MySonSanctuary.png"
+             alt="My Son Sanctuary" width="400" height="300">
+
+        <img src="images/TuongĐaimeThu.png"
+             alt="Tuong Đai me Thu" width="400" height="300">
+    </section>
+
+</main>
+
+    <footer>
+    <p>Top 15 Tam Ky City's <a
+        href="https://mia.vn/cam-nang-du-lich/du-lich-quang-nam-12556">place</a> </p>
+  </footer>
+
+</body>
+</html>
